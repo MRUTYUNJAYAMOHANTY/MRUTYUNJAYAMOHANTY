@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... MEAN stack having self design projects , Well I am a front-end developer having more than 3.3+ years,currently active in 
       industry/organizations .  
 - 💞️ I’m looking to collaborate on ... Innovative ideas which took forward human race into a better tomorrow in all arena of life.
-- 📫 How to reach me ... 1. https://dev.to/manfulloflife  2. https://gitter.im/manfulloflife
+- 📫 How to reach me ... 1. https://dev.to/manfulloflife   2. https://gitter.im/manfulloflife  3. https://www.npmjs.com/manfulloflife
 
 <!---
 MRUTYUNJAYAMOHANTY/MRUTYUNJAYAMOHANTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
