@@ -5,7 +5,7 @@
       industry/organizations .  
 - 💞️ I’m looking to collaborate on ... Innovative ideas which took forward human race into a better tomorrow in all arena of life.
 - 📫 How to reach me ... 1. https://dev.to/manfulloflife   2. https://gitter.im/manfulloflife  3. https://www.npmjs.com/manfulloflife 
-      4. https://www.kaggle.com/mrutyunjayamohanty
+        4. https://www.kaggle.com/mrutyunjayamohanty
 
 <!---
 MRUTYUNJAYAMOHANTY/MRUTYUNJAYAMOHANTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
