@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRUTYUNJAYA MOHANTY
-- 👀 I’m interested in ... To build tech driven product.Immense enthusiastic in filed like system design,AI/ML models,Deep learing-neural_n/w,Astro/space 
+- 👀 I’m interested in ... To build tech driven product. Immense enthusiastic in filed like system design,AI/ML models,Deep learing-neural_n/w,Astro/space 
       science,Quantum computing and IOT.  
 - 🌱 I’m currently learning ... MEAN/MERN stack,Machine learning models using Tensorflow having self design projects , Well I am a front-end developer having more 
       than 3.6+ years of experience,currently active in industries/organizations . 
